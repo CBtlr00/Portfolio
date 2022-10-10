@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
           I am Computer Science Student at Technological University Dublin. I have a passion for programming and I enjoy learning about new technologies.
         </SectionText>
-        <Button onClick={() => window.location = '/files/CV.pdf'} target="_blank">Resume</Button>
+        <Button onClick={() => window.location = '{`${process.env.NEXT_PUBLIC_IMAGES}/files/CV.pdf`}'} target="_blank">Resume</Button>
       </LeftSection>
   </Section>
 );

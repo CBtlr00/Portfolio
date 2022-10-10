@@ -24,7 +24,7 @@ const Footer = () => {
           <SocialIcons href='https://www.linkedin.com/in/cian-butler-2284921a1/' target="_blank">
             <AiFillLinkedin size="3rem"/>
           </SocialIcons>
-          <SocialIcons href='/files/CV.pdf' target="_blank">
+          <SocialIcons href={`${process.env.NEXT_PUBLIC_IMAGES}/files/CV.pdf`} target="_blank">
             <AiFillFileText size="3rem"/>
           </SocialIcons>
           <SocialIcons href='mailto:cianbtlr3@gmail.com' target="_blank">
