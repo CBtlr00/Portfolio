@@ -32,6 +32,27 @@ const Projects = () => (
           </BlogCard>
         );
       })}
+
+          <BlogCard key={i}>
+          <Img src={`${process.env.NEXT_PUBLIC_IMAGES}/images/1.png`} />
+            <TitleContent>
+              <HeaderThree title></HeaderThree>
+              <Hr />
+            </TitleContent>
+            <CardInfo className="card-info">Using React, Node.js & MongoDB I created a portfolio. It is a clean, functional, and responsive web application. The aim of this project was to provide a website to display information about myself while also teaching myself more about React and JavaScript.</CardInfo>
+            <div>
+              <TitleContent>Stack</TitleContent>
+              <TagList>
+                <Tag>MongoDB</Tag>
+                <Tag>React</Tag>
+                <Tag>Node</Tag>
+                <Tag>Next</Tag>
+              </TagList>
+            </div>
+            <UtilityList>
+              <ExternalLinks href="https://github.com/CBtlr00/Portfolio" target="_blank">Code</ExternalLinks>
+            </UtilityList>
+          </BlogCard>
     </GridContainer>
   </Section>
 );
