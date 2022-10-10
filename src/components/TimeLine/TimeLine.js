@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider divider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a Full-Stack Developer who has a keen interest in programming. In my spare time I like to learn and teach myself new technologies.
+        I am a Full-Stack Developer who has a keen interest in programming. Bachelor of Science (Honors) in Computing with Software Development (Expected 2.1) that is enthusiastic, analytical and enjoy problem solving. I take on any obstacle in the way of reaching ambitions and goals by facing it with a positive attitude and an opportunity to grow. In my spare time I like to learn and teach myself new technologies.
       </SectionText>
       <CarouselContainer ref={carouselRef}>
         <>

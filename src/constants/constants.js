@@ -4,8 +4,8 @@ export const projects = [
     description: "Using React, Node.js & MongoDB I created a portfolio. It is a clean, functional, and responsive web application. The aim of this project was to provide a website to display information about myself while also teaching myself more about React and JavaScript.",
       image: '/images/1.png',
       tags: ['Mongo', 'React', 'Node'],
-    source: '',
-    visit: '',
+    source: '#',
+    visit: 'https://github.com/CBtlr00/Portfolio',
     id: 0,
   },
   {
