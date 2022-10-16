@@ -25,7 +25,7 @@ const Footer = () => {
           <SocialIcons href='https://github.com/CBtlr00' target="_blank">
             <AiFillGithub size="3rem"/>
           </SocialIcons>
-          <SocialIcons href='https://www.linkedin.com/in/cian-butler-2284921a1/' target="_blank">
+          <SocialIcons href='https://ie.linkedin.com/in/cian-butler-2284921a1' target="_blank">
             <AiFillLinkedin size="3rem"/>
           </SocialIcons>
           <SocialIcons href={`${process.env.NEXT_PUBLIC_IMAGES}/files/CV.pdf`} target="_blank">
