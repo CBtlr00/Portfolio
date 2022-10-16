@@ -12,7 +12,7 @@ const Hero = (props) => (
           and welcome to my Portfolio
         </SectionTitle>
         <SectionText>
-          I am Computer Science Student at Technological University Dublin. I have a passion for programming and I enjoy learning about new technologies.
+          I am a Computer Science Student at the Technological University Dublin. I have a passion for programming and I enjoy keeping up with the newest technologies.
         </SectionText>
       </LeftSection>
   </Section>

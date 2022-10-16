@@ -15,7 +15,7 @@ const Projects = () => (
               <HeaderThree title>Portfolio</HeaderThree>
               <Hr />
             </TitleContent>
-            <CardInfo className="card-info">Using React, Node.js & MongoDB I created a portfolio. It is a clean, functional, and responsive web application. The aim of this project was to provide a website to display information about myself while also teaching myself more about React and JavaScript.</CardInfo>
+            <CardInfo className="card-info">Using React, Node.js & MongoDB I created a personal portfolio. It is a clean, functional, and responsive web application. The aim of this project was to provide a website to display information about myself while also developing my JavaScript skills and learning React.</CardInfo>
             <div>
               <TitleContent>Stack</TitleContent>
               <TagList>
@@ -36,7 +36,7 @@ const Projects = () => (
               <HeaderThree title>E-Commerce</HeaderThree>
               <Hr />
             </TitleContent>
-            <CardInfo className="card-info">Using Django and Python I built a E-Commerce Store. I learnt how to build a Full Stack Django Application - from start to finish. It is a simple e-commerce store app that allows users to buy item and create accounts to shop online.</CardInfo>
+            <CardInfo className="card-info">Using Django and Python I built an E-Commerce Store. I learnt how to build a Full Stack Django Application - from start to finish. It is a simple e-commerce store app that allows users to buy item and create accounts to shop online.</CardInfo>
             <div>
               <TitleContent>Stack</TitleContent>
               <TagList>
@@ -57,7 +57,7 @@ const Projects = () => (
               <HeaderThree title>Movie API</HeaderThree>
               <Hr />
             </TitleContent>
-            <CardInfo className="card-info">Using vanilla Javascript and OMDB API I created a Movie APi. Whilst doing this I learnt more on server-side and client-side in web application.</CardInfo>
+            <CardInfo className="card-info">Using vanilla JavaScript and OMDB API I created a Movie API. Whilst doing this I learnt more on server-side and client-side in web application.</CardInfo>
             <div>
               <TitleContent>Stack</TitleContent>
               <TagList>
