@@ -17,11 +17,8 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             HTML<br/>
-            CSS<br/>
             JavaScript<br/>
-            React<br/>
-            Bootstrap<br/>
-            TailWind
+            React
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,10 +29,9 @@ const Technologies = () =>  (
           <ListParagraph>
             Python<br/>
             Java<br/>
-            Django<br/>
             MongoDB<br/>
-            SQL<br/>
-            C++<br/>
+            SpringBoot<br/>
+            Django<br/>
             Node
           </ListParagraph>
         </ListContainer>
@@ -47,7 +43,8 @@ const Technologies = () =>  (
           <ListParagraph>
             Git<br/>
             GitHub<br/>
-            GitLab<br/>
+            SQL<br/>
+            NoSQL<br/>
             Jira
           </ListParagraph>
         </ListContainer>
