@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Python<br/>
             Java<br/>
-            MongoDB<br/>
+            JavaScript<br/>
             SpringBoot<br/>
             Django<br/>
             Node
@@ -44,8 +44,9 @@ const Technologies = () =>  (
             Git<br/>
             GitHub<br/>
             SQL<br/>
-            NoSQL<br/>
-            Jira
+            PostgreSQL<br/>
+            Jenkins<br/>
+            Postman
           </ListParagraph>
         </ListContainer>
       </ListItem>

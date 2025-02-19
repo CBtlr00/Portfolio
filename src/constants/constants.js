@@ -30,5 +30,5 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2013, text: 'Student at Colaiste Cois Life located in Lucan where I completed my leaving cert'},
-  { year: 2019, text: 'Computing Student at Technological University Dublin, graduating in 2023', },
+  { year: 2019, text: 'Bachelor of Science (Honors) in Computing with Software Development at Technological University Dublin', },
 ];
